@@ -1,0 +1,8 @@
+path: /Users/ahakobyan/Desktop/capstone/Object-Detector/data
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+names:
+  0: 'pointing_gesture'
+
